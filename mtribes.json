@@ -6,14 +6,14 @@
             "bin": [
                 "mtribes.exe"
             ],
-            "hash": "fcbc85a0e8c2479cf0566d1052894e72e08b3e0d259b46b92697f78b97786f65"
+            "hash": "297c2a597ab36caebe5bd6ee1e600af9f479b029f8b97e2811a311e1efc19ab9"
         },
         "64bit": {
             "url": "https://mtribes-cli.s3-us-west-2.amazonaws.com/release/v0.0.1/mtribes_0.0.1_Windows_x86_64.zip",
             "bin": [
                 "mtribes.exe"
             ],
-            "hash": "1a2130b7679d055f900958527c5ba10af3370b32eb19fabce895568cf2d396fd"
+            "hash": "a7d02a817b148d68c51e5f35b287ef24820c2520ec1eba80ee79d38d2ee33847"
         }
     },
     "homepage": "https://mtribes.com",
