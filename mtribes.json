@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://mtribes-cli.s3-us-west-2.amazonaws.com/release/v0.0.1/mtribes_0.0.1_Windows_i386.zip",
+            "bin": [
+                "mtribes.exe"
+            ],
+            "hash": "fcbc85a0e8c2479cf0566d1052894e72e08b3e0d259b46b92697f78b97786f65"
+        },
+        "64bit": {
+            "url": "https://mtribes-cli.s3-us-west-2.amazonaws.com/release/v0.0.1/mtribes_0.0.1_Windows_x86_64.zip",
+            "bin": [
+                "mtribes.exe"
+            ],
+            "hash": "1a2130b7679d055f900958527c5ba10af3370b32eb19fabce895568cf2d396fd"
+        }
+    },
+    "homepage": "https://mtribes.com",
+    "description": "A CLI to help automate app integration with mtribes."
+}
