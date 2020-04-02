@@ -11,7 +11,7 @@
         "64bit": {
             "url": "https://github.com/mtribes/mtcli/releases/download/v0.23.4/mtribes_Windows_x86_64.zip",
             "bin": [
-                "mtribes.exe.exe"
+                "mtribes.exe"
             ],
             "hash": "ab1a83448f3c47f0bdf84044a0701dba2f566e2ea0721bb26c7f615a029a06f5"
         }
