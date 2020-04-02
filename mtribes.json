@@ -4,7 +4,7 @@
         "32bit": {
             "url": "https://github.com/mtribes/mtcli/releases/download/v0.23.4/mtribes_Windows_i386.zip",
             "bin": [
-                "mtribes.exe.exe"
+                "mtribes.exe"
             ],
             "hash": "f3f97a81cadc7df4f7620e48fa305fb908006883a0b5a7ad7b053b7e568b391b"
         },
