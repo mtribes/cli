@@ -1,1 +1,1 @@
-# mtcli
+# mtribes CLI
