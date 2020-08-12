@@ -16,6 +16,11 @@
       "id": "android",
       "lib": "com.mtribes.android:client",
       "version": "1.0.0-alpha.29"
+    },
+    {
+      "id": "roku",
+      "lib": "client-roku",
+      "version": "1.0.0-alpha.1"
     }
   ]
 }
