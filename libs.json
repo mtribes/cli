@@ -20,7 +20,7 @@
     {
       "id": "roku",
       "lib": "client-roku",
-      "version": "1.0.0-alpha.2"
+      "version": "1.0.0-alpha.1"
     }
   ]
 }
