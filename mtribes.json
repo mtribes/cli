@@ -1,19 +1,19 @@
 {
-    "version": "0.27.4",
+    "version": "0.27.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mtribes/cli/releases/download/v0.27.4/mtribes_Windows_i386.zip",
+            "url": "https://github.com/mtribes/cli/releases/download/v0.27.5/mtribes_Windows_i386.zip",
             "bin": [
                 "mtribes.exe"
             ],
-            "hash": "f7830f0228c710a964a02cf04dab44991b9e1fc02cda33c3efcc20a20087a193"
+            "hash": "8559d375292fe9acad36afb22196a1c1fa5c887ed0e18a2fcb92483ba0317506"
         },
         "64bit": {
-            "url": "https://github.com/mtribes/cli/releases/download/v0.27.4/mtribes_Windows_x86_64.zip",
+            "url": "https://github.com/mtribes/cli/releases/download/v0.27.5/mtribes_Windows_x86_64.zip",
             "bin": [
                 "mtribes.exe"
             ],
-            "hash": "ac79b80fe02ec547efd030171d803d36f3f3a5a61cbdb78a3a65f7092e5f556f"
+            "hash": "539c268e7dfc56f0abc806ca1f5b14e0347bd438b31b19cdeafba28827cc1017"
         }
     },
     "homepage": "https://mtribes.com",
