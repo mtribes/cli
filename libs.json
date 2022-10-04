@@ -5,17 +5,17 @@
     {
       "id": "browser",
       "lib": "@mtribes/client-browser",
-      "version": "1.0.0-beta.29"
+      "version": "1.0.0-beta.30"
     },
     {
       "id": "react",
       "lib": "@mtribes/client-react",
-      "version": "1.0.0-beta.29"
+      "version": "1.0.0-beta.30"
     },
     {
       "id": "android",
       "lib": "com.mtribes.android:client",
-      "version": "1.0.0-alpha.41"
+      "version": "1.0.0-alpha.42"
     },
     {
       "id": "roku",
